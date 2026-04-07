@@ -1,0 +1,22 @@
+#table{
+border:20px solid rgb(247, 214, 220);
+background-color: rgb(228, 216, 240);
+border-radius: 30px solid black;
+padding: 30px;
+margin: 25px;
+}
+*{
+margin: 50px;
+}
+table{
+height: 40vh;
+width: 60vh;
+}
+form{
+    background-color: rgb(226, 169, 169);
+   margin: 20px; 
+}
+about{
+    background-color: rgb(210, 242, 178);
+    margin: 20px;
+}
